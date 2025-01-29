@@ -1,5 +1,6 @@
 ### Olá, Eu sou o Aurélio!👋
-## Bacharel em Ciências Econômicas pela Universidade Federal de Ouro Preto e Analista de Dados.
+## Bacharel em Ciências Econômicas pela Universidade Federal de Ouro Preto
+## e Analista de Dados.
 
 <!--
 **AurelioDiniz/AurelioDiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
