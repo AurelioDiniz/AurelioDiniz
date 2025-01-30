@@ -8,6 +8,11 @@ Sobre mim:
 Graduado em Ciências Econômicas pela Universidade Federal de Ouro Preto, possuo experiência em análise e tratamento de dados, com foco na criação de Dashboards e Indicadores. Tenho domínio técnico em SQL, Power BI e Excel, ferramentas que utilizo para transformar dados em insights estratégicos.
 Acredito que decisões baseadas em dados devem ser guiadas pela objetividade, sem perder a criatividade, um diferencial que também trago da minha carreira de mais de 20 anos como músico e cantor. Essa bagagem única me permite abordar problemas com uma perspectiva inovadora e orientada por resultados.
 
+
+
+
+
+
 <!--
 **AurelioDiniz/AurelioDiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
