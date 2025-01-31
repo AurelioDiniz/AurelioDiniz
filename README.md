@@ -41,7 +41,7 @@ Onde podem me encontrar:
 
 ### Análise Base de Dados Chinook 
 <img align="right" width="500" src="https://github.com/AurelioDiniz/ChinookDatabasePortfolio/blob/main/Imagens/chinook%20dashboard.png">
-Projeto desenvolvido para análise geral da base de dados Chinook, que corresponde a um cenário fictício de uma loja digital de música. 
+Projeto de Dashboard desenvolvido para análise geral da base de dados Chinook, que corresponde a um cenário fictício de uma loja digital de música. 
 Utilizando o SQL para consulta ao banco de dados, os principais desafios foram:
 <br><br>
 - Desenvolver consultas utilizando o SQL<br>
