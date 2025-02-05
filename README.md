@@ -51,7 +51,7 @@ Utilizando o SQL para consulta ao banco de dados, os principais desafios foram:
 <br>
 <br>
 
-<a href="https://github.com/AurelioDiniz/ChinookDatabasePortfolio/blob/main/POWERBI/Chinook%20Dashboard.pbix" target="_blank"> Clique aqui</a>  para acessar o repositório no Github
+<a href="https://github.com/AurelioDiniz/ChinookDatabasePortfolio/" target="_blank"> Clique aqui</a>  para acessar o repositório no Github
 <br>
 <a target="_blank" href="https://app.powerbi.com/view?r=eyJrIjoiOTI4OTU0NjgtYzUwOC00ZjBkLWIyYjQtYmU1NmViYjRjNGFiIiwidCI6Ijg3YmVhYjI1LTZlOGQtNGMxZC05MjU4LWZmM2RmOTZlNTcyNyJ9" target="_blank" >Clique aqui</a> e acesse o a solução desenvolvida para a empresa Chinook.
 
