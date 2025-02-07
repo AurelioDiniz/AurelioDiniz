@@ -40,7 +40,7 @@ Onde podem me encontrar:
 ## Portfólio e Principais Projetos
 
 ### Análise Base de Dados Chinook 
-<img align="right" width="500" src="https://github.com/AurelioDiniz/ChinookDatabasePortfolio/blob/main/Imagens/chinook%20dashboard.png">
+<img align="right" width="500" src="https://github.com/AurelioDiniz/ChinookDatabasePortfolio/blob/main/Imagens/CHINOOK%20VIS%C3%83O%20GERAL%20DB.png?raw=true">
 Projeto de Dashboard desenvolvido com Power BI para análise geral da base de dados Chinook, que corresponde a um cenário fictício de uma loja digital de música. 
 Com essa ferramenta foi possivel identificar os principais fatores que impactam nas vendas totais da empresa, e com isso permitir melhores escolhas nas tomadas de decisão.
 Utilizando o SQL para consulta ao banco de dados, os principais desafios foram:
