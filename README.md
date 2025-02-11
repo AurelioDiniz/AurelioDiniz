@@ -1,7 +1,7 @@
 
 ### Olá, Eu sou o Aurélio!👋
 
-## Economista  <br> e Analista de Dados.
+## Economista e Analista de Dados.
 
 Sobre mim:
 
